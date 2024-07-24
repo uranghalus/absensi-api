@@ -1,0 +1,13 @@
+NODE_ENV=development
+
+# This was inserted by `prisma init`:
+# Environment variables declared in this file are automatically made available to Prisma.
+# See the documentation for more detail: https://pris.ly/d/prisma-schema#accessing-environment-variables-from-the-schema
+
+# Prisma supports the native connection string format for PostgreSQL, MySQL, SQLite, SQL Server, MongoDB and CockroachDB.
+# See the documentation for all the connection string options: https://pris.ly/d/connection-strings
+
+DATABASE_URL="postgres://avnadmin:AVNS_dqLXaBMt7TsoyNeUXIc@pg-2662064d-muhammadfauzan7-0cc6.e.aivencloud.com:24042/lodginglinkdb?sslmode=require"
+JWT_SECRET="kI+3Tcjpp0vHCuJJIABr3tUVgDDRNcC53HTjBPE/Rwba"
+JWT_REFRESH_SECRET="bsMjb0SJJIDIm39v0/NGE3TiiprR8liBdutIrey7Ayfl"
+GEOAPIFY_KEY="ce0436eb9aa34cadbffaa096124ee37c"
